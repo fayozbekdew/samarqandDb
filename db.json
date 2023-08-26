@@ -1,0 +1,172 @@
+{
+    "regions": [
+        {
+            "id": "88",
+            "name": "paxtachi",
+            "region": "samarqand",
+            "population": "146 000",
+            "cetral":"ziyovuddin",
+            "dencity":"110/",
+            "since":"1973",
+            "area": "1 380",
+            "img": "./images/region/samarqand_paxtachi.png",
+            "info": "Tuman 7 shahar tipidagi aholi punkti ( Ziyovuddin , Qodirist , Past Burkut , Sanchiqul , Suluvqoʻrgʻon , Urgich , Xumor ) va 8 qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "89",
+            "name": "bulung'ur",
+            "region": "samarqand",
+            "population": "189 600",
+            "cetral":"bulung'ur",
+            "dencity":"250/",
+            "since":"1926",
+            "area": "760",
+            "img": "./images/region/samarqand_bulungur.png",
+            "info": "Tuman bir shahar ( Bulungʻur ), 3 shahar tipidagi posyolka (Kildon, Soxibkor, Bogʻbon) va 7 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "90",
+            "name": "ishtixon",
+            "region": "samarqand",
+            "population": "258 200",
+            "cetral":"ishtixon",
+            "dencity":"360/",
+            "since":"1943",
+            "area": "720",
+            "img": "./images/region/samarqand_ishtixon.png",
+            "info": "Tuman bir shahar ( Ishtixon ), 12 shahar tipidagi aholi punkti ( Mitan , Azamat, Damariq, Bahrin, Qirqyigit, Odil, Sugʻot, Xalqobod, Shayxislom, Shayxlar, Yangikent, Yangirabot) va 9 qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "91",
+            "name": "jomboy",
+            "region": "samarqand",
+            "population": "176 000",
+            "cetral":"jomboy",
+            "dencity":"320/",
+            "since":"1970",
+            "area": "550",
+            "img": "./images/region/samarqand_jomboy.png",
+            "info": "Tuman bir shahar ( Jomboy ), 5 shahar tipidagi aholi punkti (Dehqonobod, Eski Jomboy, Xoʻja, Gʻazira, Kattaqishloq) va 8 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "92",
+            "name": "kattaqo'rg'on",
+            "region": "samarqand",
+            "population": "276 700",
+            "cetral":"payshanba",
+            "dencity":"200/",
+            "since":"1926",
+            "area": "1 390",
+            "img": "./images/region/samarqand_kattakurgan.png",
+            "info": "Tuman 8 ta shahar tipidagi aholi punkti ( Payshanba , Suv hovuzi , Mundiyon, Polvontepa, Qoradaryo, Vayrat, Yangiqoʻrgʻoncha, Kattaming ) va 11 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "93",
+            "name": "qo'shrabot",
+            "region": "samarqand",
+            "population": "133 600",
+            "cetral":"qo'shrabot",
+            "dencity":"62/",
+            "since":"1978",
+            "area": "2 160",
+            "img": "./images/region/samarqand_qosharabot.png",
+            "info": "Tuman ikki shahar tipidagi aholi punkti ( Qoʻshrabot , Zarkent) va 7 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "94",
+            "name": "narpay",
+            "region": "samarqand",
+            "population": "215 500",
+            "cetral":"oqtosh",
+            "dencity":"490/",
+            "since":"1926",
+            "area": "440",
+            "img": "./images/region/samarqand_narpay.png",
+            "info": "Tuman bir shahar ( Oqtosh ), 3 shahar tipidagi aholi punkti ( Mirbozor , Guliston, Qoʻyi Charxin ) va 9 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "95",
+            "name": "nurobod",
+            "region": "samarqand",
+            "population": "152 700",
+            "cetral":"nurobod",
+            "dencity":"31/",
+            "since":"1975",
+            "area": "4 860",
+            "img": "./images/region/samarqand_nurobod.png",
+            "info": "Tuman bir shahar ( Nurobod ), bitta shahar tipidagi aholi punkti (Nurbuloq) va 7 qishloq fuqarolar yigʻinidan (Jom, Jarquduq, Nurbuloq, Tim, Sazogʻon, Ulus, Tutli) iborat."
+        },
+        {
+            "id": "96",
+            "name": "oqdaryo",
+            "region": "samarqand",
+            "population": "161 700",
+            "cetral":"loyish",
+            "dencity":"410/",
+            "since":"1926",
+            "area": "390",
+            "img": "./images/region/samarqand_oqdaryo.png",
+            "info": "Tuman 10 ta shahar tipidagi posyolka ( Loyish , Dahbed , Avazali, Bolta, Qirqdarxon, Kumushkent, Oytamgʻali, Oqdaryo, Yangiqoʻrgʻon, Yangiobod) va 6 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "97",
+            "name": "payariq",
+            "region": "samarqand",
+            "population": "254 600",
+            "cetral":"payariq",
+            "dencity":"200/",
+            "since":"1926",
+            "area": "1 290",
+            "img": "./images/region/samarqand_payariq.png",
+            "info": "Tuman ikki shahar ( Payariq , Chelak ), 9 shahar tipidagi aholi punkti (Tomoyrat, Qorasuv, Koʻksaroy, Gʻujumsoy, Xoʻja Ismoil, Tupolos, Oqqoʻrgʻon, Doʻstlarobod, Doʻstlik) va 11 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "98",
+            "name": "pastdarg'om",
+            "region": "samarqand",
+            "population": "360 000",
+            "cetral":"juma",
+            "dencity":"410/",
+            "since":"1926",
+            "area": "870",
+            "img": "./images/region/samarqand_pastdorgom.png",
+            "info": "Tuman bir shahar ( Juma ), 12 shahar tipidagi aholi punkti ( Chorxin , Chortut, Oʻrta Charxin, Balhiyon, Goʻzalkent, Nayman, Jagʻalboyli, Mehnat, Hindiboʻyi, Agron, Iskandari, Saribosh) va 13 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "99",
+            "name": "samarqand",
+            "region": "samarqand",
+            "population": "360 000",
+            "cetral":"gulobod",
+            "dencity":"600/",
+            "since":"1930",
+            "area": "430",
+            "img": "./images/region/samarqand_samarqand.png",
+            "info": "2020 yil holatiga koʻra tumanda ikkita shahar tipidagi aholi punkti ( Gulobod va Xoʻja Ahrori Vali ) va 8 ta qishloq fuqarolar yigʻini mavjud: "
+        },
+        {
+            "id": "100",
+            "name": "toyloq",
+            "region": "samarqand",
+            "population": "205 100",
+            "cetral":"toyloq",
+            "dencity":"730/",
+            "since":"1992",
+            "area": "280",
+            "img": "./images/region/samarqand_toyloq.png",
+            "info": "Tuman 3 ta shahar tipidagi aholi punkti ( Toʻyloq , Adas, Bogʻizagʻon) va 9 ta qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "101",
+            "name": "urgut",
+            "region": "samarqand",
+            "population": "519 200",
+            "cetral":"urgut",
+            "dencity":"460/",
+            "since":"1973",
+            "area": "1 120",
+            "img": "./images/region/samarqand_urgut.png",
+            "info": "Tuman bir shahar ( Urgut ), 7 shahar tipidagi aholi punkti (Jartepa, Kamangaron, Gʻoʻs , Pochvon, Ispanza, Uramas, Kenagas) va 12 qishloq fuqarolar yigʻinidan iborat. [1] Zarafshon tizmasining shimoliy yon bagʻrida joylashgan . [4] Har bahorgi tengkunlik kunida Navroʻz bayrami boʻladi ."
+        }
+    ]
+}
